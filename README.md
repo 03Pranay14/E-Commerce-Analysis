@@ -68,5 +68,5 @@ To begin analyzing the dataset, follow these steps:
 
 git clone https://github.com/03Pranay14/E-Commerce-Analysis.git
 
-cd E-Commerce-Analysis
+cd Ecommerce Purchases Dataset
 
